@@ -1861,6 +1861,15 @@ a {
   .cid-udVFkgN1rt .card-wrapper {
     padding: 4rem;
   }
+  .cid-udVFkgN2rt {
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
+  .upcomming_event_image{
+    /* border: 8px solid orange; */
+    margin-left: 10rem;
+    margin-right: 10rem;
+  }
 }
 .cid-udVFkgN1rt .mbr-text,
 .cid-udVFkgN1rt .mbr-section-btn {
@@ -1915,6 +1924,13 @@ a {
 }
 .cid-udVFkgNgDh .bg-tiktok:hover {
   background: #000000;
+}
+.cid-udVFkgNgDh .bg-whatsapp {
+  background: #00cc02;
+  color: #ffffff;
+}
+.cid-udVFkgNgDh .bg-whatsapp:hover {
+  background: #028402;
 }
 .cid-udVFkgNgDh .iconfont-wrapper {
   display: inline-block;
