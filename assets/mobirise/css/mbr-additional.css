@@ -167,7 +167,7 @@ body {
 .btn-primary:active {
   background-color: #f0c808 !important;
   border-color: #f0c808 !important;
-  color: #ffffff !important;
+  color: #5f0000 !important;
   box-shadow: none;
 }
 .btn-primary:hover,
