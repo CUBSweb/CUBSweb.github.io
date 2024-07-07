@@ -2075,6 +2075,98 @@ a {
 .cid-udVFkgNvuE .content-head {
   max-width: 800px;
 }
+.cid-ugWamEPrz1 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fffffb;
+}
+.cid-ugWamEPrz1 .row {
+  flex-direction: row;
+}
+.cid-ugWamEPrz1 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ugWamEPrz1 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ugWamEPrz1 .mbr-description {
+  text-align: left;
+}
+.cid-ugWamEPrz1 .item-wrapper {
+  background: #ffffff;
+  margin-bottom: 1rem;
+  padding: 2.25rem 2.25rem 1rem 2.25rem;
+}
+@media (max-width: 767px) {
+  .cid-ugWamEPrz1 .item-wrapper {
+    padding: 2rem 1.5rem 0.5rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-ugWamEPrz1 .item-wrapper {
+    padding: 2rem 1.5rem 0.5rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+.cid-ugWamEPrz1 .card-title,
+.cid-ugWamEPrz1 .iconfont-wrapper {
+  color: #000000;
+}
+.cid-ugWamEPrz1 .card-text {
+  color: #000000;
+}
+.cid-ugWamEPrz1 .mbr-section-title {
+  color: #f45601;
+  text-align: center;
+}
+.cid-ugWamEPrz1 .mbr-text,
+.cid-ugWamEPrz1 .mbr-section-btn {
+  text-align: left;
+}
+.cid-ugWamEPrz1 .card-text,
+.cid-ugWamEPrz1 .item .mbr-section-btn {
+  text-align: left;
+}
+.cid-ugWamEPrz1 .counter-container p {
+  margin: 0;
+  padding-bottom: 1rem;
+  padding-left: -1.25rem;
+  list-style: 2rem;
+}
+.cid-ugWamEPrz1 .counter-container ul {
+  margin: 0;
+  padding-left: 2rem;
+  list-style: 1.5rem;
+}
+.cid-ugWamEPrz1 .counter-container ul li {
+  position: relative;
+  list-style: none;
+  margin-bottom: 0.5rem;
+}
+.cid-ugWamEPrz1 .counter-container ul li:before {
+  position: absolute;
+  left: -1.5em;
+  content: "";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #9fe870;
+  background-color: #9fe870;
+  width: 0.5em;
+  height: 0.5em;
+  top: 0.4em;
+  border-radius: 50%;
+}
+.cid-ugWamEPrz1 .mbr-text UL {
+  text-align: left;
+}
 .cid-udVFkgOyZa {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2087,11 +2179,11 @@ a {
   flex-wrap: wrap;
 }
 .cid-udVFkgOyZa .social-row .soc-item {
-  margin: 8px;
+  margin: 5px;
 }
 .cid-udVFkgOyZa .social-row .soc-item a:hover .mbr-iconfont,
 .cid-udVFkgOyZa .social-row .soc-item a:focus .mbr-iconfont {
-  background-color: #ffffff;
+  background-color: #d5f59f;
 }
 .cid-udVFkgOyZa .social-row .soc-item a .mbr-iconfont {
   width: 72px;
