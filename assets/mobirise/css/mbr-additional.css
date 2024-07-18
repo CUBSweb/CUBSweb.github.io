@@ -2136,7 +2136,7 @@ a {
 }
 .cid-ugWamEPrz1 .counter-container p {
   margin: 0;
-  padding-bottom: 1rem;
+  /* padding-bottom: 1rem; */
   padding-left: -1.25rem;
   list-style: 2rem;
 }
@@ -2235,7 +2235,11 @@ a {
   border-radius: 10px;
   box-shadow: inset 1px 1px 10px 10px #fff;
   transform: scale(1.3);
-  display:flex; */
+  display:flex; 
   /* align-items: center;
   justify-content: center;
+  */
+}
+.image_services_next_door{
+  margin-top: 3rem;
 }
