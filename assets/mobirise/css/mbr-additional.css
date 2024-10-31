@@ -1949,6 +1949,15 @@ a {
 .cid-udVFkgNsjE .content-head {
   max-width: 800px;
 }
+.cid-udVFkgNsjE .iframe{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.cid-udVFkgNsjE iframe{
+  height: 100%;
+  border-radius: 9%;
+}
 .cid-udVFkgN1rt {
   padding-top: 5rem;
   padding-bottom: 5rem;
