@@ -1495,9 +1495,10 @@ a {
   }
 }
 .cid-upNmtWCENv {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: transparent;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  /* background-color: transparent; */
+  background-image: url("../../../assets/images/holi_bg.gif");
 }
 .cid-upNmtWCENv .w-100{
   scale: 0.7;
@@ -1517,6 +1518,7 @@ a {
 .cid-upNmtWCENv .card-wrapper {
   overflow: hidden;
   background: #ffffff;
+  opacity: 0.93;
 }
 .cid-upNmtWCENv .text-wrapper {
   padding: 4rem 3rem;
