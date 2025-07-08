@@ -1978,10 +1978,10 @@ a {
   top: 0;
 }
 .cid-udVFkgN1rt .card-wrapper {
-  background: #f55d3e;
+  background: #262E40;
 }
 .cid-udVFkgN2rt .card-wrapper {
-  background: #f2aa4b;
+  background: #87c5f6;
 }
 @media (max-width: 767px) {
   .cid-udVFkgN1rt .card-wrapper {
@@ -2278,13 +2278,13 @@ a {
 .cid-ugWamEPrz1 .counter-container p {
   margin: 0;
   /* padding-bottom: 1rem; */
-  padding-left: -1.25rem;
-  list-style: 2rem;
+  padding-left: 1.25rem;
+  list-style: inherit;
 }
 .cid-ugWamEPrz1 .counter-container ul {
   margin: 0;
   padding-left: 2rem;
-  list-style: 1.5rem;
+  list-style: inherit;
 }
 .cid-ugWamEPrz1 .counter-container ul li {
   position: relative;
