@@ -829,7 +829,7 @@ form .mbr-section-btn {
 }
 
 form .form-check-input {
-  margin-top: 0.5;
+  margin-top: 0.5rem;
 }
 
 textarea.form-control {
@@ -975,6 +975,15 @@ blockquote {
   width: 40%;
   height: 40%;
 }
+
+.cid-ugDonEPrz1 .section-txt{
+  text-align: center;
+  padding: 4rem;
+  font-size: 10.09rem;
+  position: relative;
+  border-left: 3px solid;
+}
+
 
 .cid-upNmtWzniw {
   padding-top: 5rem;
