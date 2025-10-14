@@ -1965,6 +1965,12 @@ a {
   padding-bottom: 5rem;
   background-color: transparent;
 }
+.cid-udVFkgN1rt .centered-button {
+  display: block;
+  width: auto; /* Example width */
+  margin: 0 auto;
+  text-overflow: ellipsis; /* Display ellipsis for truncated text */
+}
 .cid-udVFkgN1rt .mbr-fallback-image.disabled {
   display: none;
 }
@@ -1983,6 +1989,23 @@ a {
 .cid-udVFkgN2rt .card-wrapper {
   background: #87c5f6;
 }
+.cid-udVFkgN1rt .animated-button {
+    position: relative;
+    height: auto;
+    /* transform: translate(-50%, -50%); */
+    background-color: #ff7b00;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    border: none;
+    border-radius: 5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+.cid-udVFkgN1rt .animated-button:hover {
+    background-color: #b35600;
+    transform: scale(1.05);
+  }
 @media (max-width: 767px) {
   .cid-udVFkgN1rt .card-wrapper {
     padding: 1.5rem;
