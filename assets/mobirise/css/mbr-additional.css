@@ -1987,14 +1987,19 @@ a {
   background: #262E40;
 }
 .cid-udVFkgN2rt .card-wrapper {
-  background: #87c5f6;
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  background: #ffef0f;
 }
 .cid-udVFkgN1rt .animated-button {
     position: relative;
     height: auto;
     /* transform: translate(-50%, -50%); */
-    background-color: #ff7b00;
-    color: white;
+    background-color: #111010;
+    color: rgb(255, 255, 255);
     padding: 0.5rem 1rem;
     text-align: center;
     border: none;
@@ -2003,7 +2008,7 @@ a {
     transition: background-color 0.3s ease, transform 0.2s ease;
   }
 .cid-udVFkgN1rt .animated-button:hover {
-    background-color: #b35600;
+    background-color: #ffa34e;
     transform: scale(1.05);
   }
 @media (max-width: 767px) {
