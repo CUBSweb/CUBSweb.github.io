@@ -2008,7 +2008,7 @@ a {
     transition: background-color 0.3s ease, transform 0.2s ease;
   }
 .cid-udVFkgN1rt .animated-button:hover {
-    background-color: #ffa34e;
+    background-color: #de3f05;
     transform: scale(1.05);
   }
 @media (max-width: 767px) {
@@ -2337,8 +2337,8 @@ a {
   text-align: left;
 }
 .cid-udVFkgOyZa {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #000000;
 }
 .cid-udVFkgOyZa .social-row {
@@ -2348,7 +2348,7 @@ a {
   flex-wrap: wrap;
 }
 .cid-udVFkgOyZa .social-row .soc-item {
-  margin: 5px;
+  margin: 3px;
 }
 .cid-udVFkgOyZa .social-row .soc-item a:hover .mbr-iconfont,
 .cid-udVFkgOyZa .social-row .soc-item a:focus .mbr-iconfont {
@@ -2392,6 +2392,16 @@ a {
 .cid-udVFkgOyZa .mbr-section-title {
   color: #ffffff;
 }
+.U2FsdGVkX1 {
+  background-color: rgb(11, 16, 32);
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#footer-7-udVFkgOyZa{
+  padding: auto;
+  margin: auto;
+}
+
 .zoom {
   padding: 10px;
   transition: transform.5s;/*Animation*/
