@@ -3056,7 +3056,7 @@ a {
   opacity: 1;
   transform: rotateY(180deg);
 }
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
   .cid-v8GUTpNvoK .card:hover .card-wrap {
     transform: none;
   }
@@ -3075,4 +3075,4 @@ a {
   .cid-v8GUTpNvoK .mbr-section-btn {
     opacity: 1;
   }
-}
+} */
