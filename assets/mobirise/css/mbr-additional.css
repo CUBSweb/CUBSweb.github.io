@@ -3076,3 +3076,68 @@ a {
     opacity: 1;
   }
 } */
+.cid-vujQqCXUq9 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-vujQqCXUq9 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vujQqCXUq9 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vujQqCXUq9 .item-wrapper {
+  display: flex;
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-vujQqCXUq9 .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-vujQqCXUq9 .mbr-iconfont {
+  font-size: 3rem;
+  color: #2e481a;
+  padding-right: 1.5rem;
+}
+.cid-vujQqCXUq9 .item-img {
+  width: 100%;
+  height: 1100px; /* Adjust this number to change how tall you want the image boxes to be */
+  border: 2px solid #5c1d13; /* Elegant border around the image box */
+  background-color: #2b0b06; /* Light grey backdrop fills in empty spaces if the image doesn't match perfectly */
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.6), 0 4px 8px rgba(0,0,0,0.2); /* Inner depth shadow + drop shadow */
+  border-radius: 4px; /* Optional: Soft rounded corners for a modern look */
+  overflow: hidden;
+  position: relative;
+  /* Smooth Hover Transition Setup */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.cid-vujQqCXUq9 .item-img:hover {
+  transform: translateY(-6px); /* Physically lifts the frame up off the page */
+  box-shadow: inset 0 0 12px rgba(0,0,0,0.7), 0 14px 24px rgba(0,0,0,0.3); /* Deepens the shadow underneath */
+}
+
+/* Force the image inside to fill that exact box space beautifully */
+.cid-vujQqCXUq9 .item-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Centers and crops the images so they match perfectly without distorting */
+  padding: 6px; /* Optional: Creates a "mat board" white-space effect around your photo inside the frame */
+  background-color: transparent;
+}
+/* .cid-vujQqCXUq9 img,
+.cid-vujQqCXUq9 .item-img {
+  width: 100%;
+  height: 500px;
+  object-fit: contain;
+} */
+.cid-vujQqCXUq9 .content-head {
+  max-width: 800px;
+}
